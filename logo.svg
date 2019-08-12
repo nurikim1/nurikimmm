@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 22.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="레이어_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px"
+	 y="0px" viewBox="0 0 300 300" style="enable-background:new 0 0 300 300;" xml:space="preserve" width="150px">
+<style type="text/css">
+	.st0{fill:#ffffff;stroke:#000000;stroke-miterlimit:10;}
+	.st1{font-family:'HYdnkM';}
+	.st2{font-size:104.5442px;}
+	.st3{fill:none;stroke:#000000;stroke-miterlimit:10;}
+    
+.st0{
+      stroke-dasharray:1000;
+      stroke-dashoffset:0; 
+      stroke-width:3;
+      animation:dash 3s linear forwards, color 1s 3s linear forwards; 
+      -webkit-animation:dash 3s linear forwards, color 1s 3s linear forwards; 
+      -moz-animation:dash 3s linear forwards, color 1s 3s linear forwards; 
+      -ms-animation:dash 3s linear forwards, color 1s 3s linear forwards; 
+      -0-animation:dash 3s linear forwards, color 1s 3s linear forwards; 
+}      
+      
+.st3{
+      stroke-width:8;
+      stroke-dasharray:1000;
+      stroke-dashoffset:0; 
+      stroke-linecap:round;
+      animation:dash 4s linear forwards; 
+      -webkit-animation:dash 4s linear forwards; 
+      -moz-animation:dash 4s linear forwards; 
+      -ms-animation:dash 4s linear forwards; 
+      -0-animation:dash 4s linear forwards; 
+}
+      
+@keyframes dash{ 
+      from{stroke-dashoffset:1000;} 
+      to{stroke-dashoffset:0;} 
+} 
+      
+-webkit-@keyframes dash{ 
+      from{stroke-dashoffset:1000;} 
+      to{stroke-dashoffset:0;} 
+} 
+
+-moz-@keyframes dash{ 
+      from{stroke-dashoffset:1000;} 
+      to{stroke-dashoffset:0;} 
+} 
+      
+-ms-@keyframes dash{ 
+      from{stroke-dashoffset:1000;} 
+      to{stroke-dashoffset:0;} 
+} 
+
+-0-@keyframes dash{ 
+      from{stroke-dashoffset:1000;} 
+      to{stroke-dashoffset:0;} 
+} 
+
+
+@keyframes color{ 
+      from{fill:#ffffff;} 
+      to{fill:#000000;} 
+} 
+  
+-webkit-@keyframes color{ 
+      from{fill:#ffffff;} 
+      to{fill:#000000;} 
+} 
+      
+-moz-@keyframes color{ 
+      from{fill:#ffffff;} 
+      to{fill:#000000;} 
+} 
+      
+-ms-@keyframes color{ 
+      from{fill:#ffffff;} 
+      to{fill:#000000;} 
+} 
+      
+-0-@keyframes color{ 
+      from{fill:#ffffff;} 
+      to{fill:#000000;} 
+}       
+      
+      
+</style>
+<text transform="matrix(1 0 0 1 49 190.7402)" class="st0 st1 st2">nun</text>
+<circle class="st0" cx="216.5" cy="109.5" r="7.5"/>
+<circle class="st3" cx="146.5" cy="156" r="121"/>
+</svg>
