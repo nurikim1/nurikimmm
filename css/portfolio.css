@@ -823,8 +823,10 @@ section{
 }
 
 .ifram iframe{
+     width:379px;
+     height:595px;
      margin-top:136px;
-      margin-left:162px;
+     margin-left:162px;
      border:none;
 }
 
