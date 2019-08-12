@@ -168,10 +168,4 @@ $(document).ready(function(){
       });
       
       
-      $("iframe").attr('src','http://webpaper4.dothome.co.kr/megabox');
-      
-      
-      
-      
-      
 });
