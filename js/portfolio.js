@@ -43,11 +43,11 @@ $(document).ready(function(){
           }
       });
 
-      $(".profile_text, .responsive_web_slide").mouseenter(function(){
+      $(".profile_text, .responsive_web_slide, .design_btn, .site_view").mouseenter(function(){
             follower.addClass("active");      
       });
       
-      $(".profile_text, .responsive_web_slide").mouseleave(function(){
+      $(".profile_text, .responsive_web_slide, .design_btn, .site_view").mouseleave(function(){
              follower.removeClass("active"); 
       });
 
@@ -105,6 +105,20 @@ $(document).ready(function(){
       }); 
       
       
+      //webstandard popup
+     $(".design_btn").click(function(){
+	   $(this).next().show();
+	   $("html").css({overflowY:"hidden"});  
+           return false;
+     });
+    
+    
+     $(".x").click(function(){
+	   $(".design_pop").hide();
+	   $("html").css({overflowY:"scroll"});
+     });
+    
+    
       //responsive{
       $(".slide1").hover(function(){
             $(".responsive_txt3").stop(true,true).animate({top:0},500);
@@ -154,7 +168,7 @@ $(document).ready(function(){
       });
       
       
-      
+      $("iframe").attr('src','http://webpaper4.dothome.co.kr/megabox');
       
       
       
